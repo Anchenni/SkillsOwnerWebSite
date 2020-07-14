@@ -18,4 +18,4 @@ Ce site contient:
 
 Tous ces sites sont la propriété intellectuel des membres de notre équipe, vous pouvez donc vous inspirez de ce projet mais en aucun cas le copier coller
 
-© 2020 - SkillsOwnerWebSite
+**© 2020 - SkillsOwnerWebSite**
