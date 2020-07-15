@@ -69,7 +69,7 @@
           <li><a href="#team">Équipe</a></li>
           <li class="drop-down"><a href="">Plus</a>
             <ul>
-              <li><a href="#pricing">Prix de réservation</a></li>
+              <li><a href="#call-to-action">Encouragez-nous!</a></li>
               <!--<li class="drop-down"><a href="#">Drop Down 2</a>
                 <ul>
                   <li><a href="#">Deep Drop Down 1</a></li>
@@ -304,10 +304,10 @@
         <div class="row">
           <div class="col-lg-9 text-center text-lg-left">
             <h3 class="cta-title">Encouragez-nous!</h3>
-            <p class="cta-text"> Vous n'avez aucun projet à nous soumettre ? Vous avez quand même envie de nous aider ? Rien de plus simple vous pouvez nous encourager en réservant des places pour des futurs projets</p>
+            <p class="cta-text"> Vous n'avez aucun projet à nous soumettre ? Vous avez quand même envie de nous aider ? Rien de plus simple vous pouvez nous encourager en faisant un don ou regardant une pub en cliquant sur "Donation"</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" id="link_resv" href="#pricing">Réserver</a>
+            <a class="cta-btn align-middle" id="link_resv" target="_blank" href="https://www.utip.io/myprofile?product_tour_id=93497">Donation</a>
           </div>
         </div>
 
@@ -692,48 +692,48 @@
 
     <!--==========================
       Pricing Section
-    ============================-->
+    ============================
     <section id="pricing" class="wow fadeInUp section-bg">
 
       <div class="container">
 
         <header class="section-header">
-          <h3>Prix de réservation</h3>
-          <p>le prix dépendant de chaque projet, nous proposons un prix de réservation de projet qui sera déduit de la facture finale</p>
+          <h3>Prix de site internet</h3>
+          <p>Le prix dépendant de chaque site internet que nous créons, nous vous proposons 3 game de prix. <br>Si les formule ne vous conviennent pas nous pouvons les adapté à vos envie</p>
         </header>
 
         <div class="row flex-items-xs-middle flex-items-xs-center">
       
-          <!-- Basic Plan  -->
+          
           <div class="col-xs-12 col-lg-4">
             <div class="card">
               <div class="card-header">
-                <h3><span class="currency">€</span>15<span class="period">de réservation</span></h3>
+                <h3><span class="currency">€</span>200<span class="period">1 fois</span></h3>
               </div>
               <div class="card-block">
                 <h4 class="card-title"> 
-                  Reservation basique
+                  Site basique
                 </h4>
                 <ul class="list-group">
-                  <li class="list-group-item"></li>
-                  <li class="list-group-item">Suivis de votre demande</li>
-                  <li class="list-group-item">Support de 12h à 15h</li>
-                  <li class="list-group-item"></li>
+                  <li class="list-group-item">Frais de l'hébergement non comprit</li>
+                  <li class="list-group-item">Création d'un site a partir d'un theme</li>
+                  <li class="list-group-item">Code source non accessibles</li>
+                  <li class="list-group-item">frais de maintenance 50€</li>
                 </ul>
                 <a href="#" class="btn">Reserver</a>
               </div>
             </div>
           </div>
       
-          <!-- Regular Plan  -->
+          
           <div class="col-xs-12 col-lg-4">
             <div class="card">
               <div class="card-header">
-                <h3><span class="currency">€</span>50<span class="period">de réservation</span></h3>
+                <h3><span class="currency">€</span>250<span class="period">/mois</span></h3>
               </div>
               <div class="card-block">
                 <h4 class="card-title"> 
-                  Réservation V.I.P
+                  Site premium
                 </h4>
                 <ul class="list-group">
                   <li class="list-group-item">Suivis de votre demande</li>
@@ -746,15 +746,15 @@
             </div>
           </div>
       
-          <!-- Premium Plan  -->
+         
           <div class="col-xs-12 col-lg-4">
             <div class="card">
               <div class="card-header">
-                <h3><span class="currency">€</span>25<span class="period">de réservation</span></h3>
+                <h3><span class="currency">€</span>500<span class="period">1 fois</span></h3>
               </div>
               <div class="card-block">
                 <h4 class="card-title"> 
-                 Réservatiion médium
+                  Site standard
                 </h4>
                 <ul class="list-group">
                   <li class="list-group-item">Suivis de votre demande</li>
@@ -770,7 +770,7 @@
         </div>
       </div>
 
-    </section><!-- #pricing -->
+    </section> #pricing-->
 
     <!--==========================
       Frequently Asked Questions Section
