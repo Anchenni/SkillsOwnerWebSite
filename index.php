@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>TITLE</title>
+  <title>Code & Share</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -46,7 +46,7 @@
         <div class="social-links">
           <!--<a href="#" class="twitter"><i class="fa fa-twitter"></i></a>-->
           <!--<a href="#" class="facebook"><i class="fa fa-facebook"></i></a>-->
-          <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+          <a href="#team" id="to-team-1" class="linkedin"><i class="fa fa-linkedin"></i></a>
           <!--<a href="#" class="instagram"><i class="fa fa-instagram"></i></a>-->
         </div>
       </div>
@@ -56,7 +56,7 @@
 
       <div class="logo float-left">
         <!-- Uncomment below if you prefer to use an image logo -->
-        <h1 class="text-light"><a href="#intro" class="scrollto"><span>TITLE</span></a></h1>
+        <h1 class="text-light"><a href="#intro" class="scrollto"><span>Code & Share</span></a></h1>
         <!-- <a href="#header" class="scrollto"><img src="img/logo.png" alt="" class="img-fluid"></a> -->
       </div>
 
@@ -861,7 +861,7 @@
                 <div class="col-sm-6">
 
                   <div class="footer-info">
-                    <h3>TITLE</h3>
+                    <h3>Code & Share</h3>
                     <p>Nous vous remercions de nous faire confiance pour votre projet, nous espérons pouvoir vous satisfaire et vous revoir bientôt</p>
                   </div>
 
@@ -912,7 +912,7 @@
                         </script>
                       </span>
                       <br>
-                      <strong>Email:</strong> TITLE@gmail.com<br>
+                      <strong>Email:</strong> code.and.share.s19@gmail.com<br>
                     </p>
                   </div>
 
@@ -920,7 +920,7 @@
                     <!--<a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
                     <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
                     <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>-->
-                    <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+                    <a href="#team" id="to-team-2" class="linkedin"><i class="fa fa-linkedin"></i></a>
                   </div>
 
                 </div>
@@ -935,7 +935,7 @@
               
               <h4>Nous envoyer un message</h4>
               <p>En nous envoyant un un message par le site votre demande sera traité dans des délais plus flexible, nous nous en excusons</p>
-              <form action="" method="post" role="form" class="contactForm">
+              <form action="php/formContact.php" method="post" role="form" class="contactForm" onsubmit="return validateForm()">
                 <div class="form-group">
                   <input type="text" name="name" class="form-control" id="name" placeholder="Votre Nom" data-rule="minlen:4" data-msg="Votre nom doit faire au moin 4 caracteres" />
                   <div class="validation"></div>
@@ -949,7 +949,7 @@
                   <div class="validation"></div>
                 </div>
                 <div class="form-group">
-                  <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="S'il vous plait, écriver votre message détailler ici" placeholder="Message"></textarea>
+                  <textarea class="form-control" id="contact-form-message" name="message" rows="5" data-rule="required" data-msg="S'il vous plait, écriver votre message détailler ici" placeholder="Message"></textarea>
                   <div class="validation"></div>
                 </div>
 
@@ -971,7 +971,7 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <span id="copyright_date"></span><script>var d = new Date(); document.getElementById("copyright_date").innerHTML = d.getFullYear();</script> - <strong>TILTE</strong>. Tout droit réservé.
+        &copy; Copyright <span id="copyright_date"></span><script>var d = new Date(); document.getElementById("copyright_date").innerHTML = d.getFullYear();</script> - <strong>Code & Share</strong>. Tout droit réservé.
       </div>
     
     </div>
@@ -993,11 +993,19 @@
   <script src="lib/owlcarousel/owl.carousel.min.js"></script>
   <script src="lib/isotope/isotope.pkgd.min.js"></script>
   <script src="lib/lightbox/js/lightbox.min.js"></script>
+  <script src="https://smtpjs.com/v3/smtp.js"></script>
+  
   <!-- Contact Form JavaScript File -->
   <script src="contactform/contactform.js"></script>
+  <script src="js/validateForm.js"></script>
 
   <!-- Template Main Javascript File -->
   <script src="js/main.js"></script>
 
+
+	<?php
+  		if (!empty($_GET['mail']))
+    		echo("<script>alert('Code & Share:\\nVotre message à bien été envoyer\\nNous vous contacterons d\'ici peu');</script>");
+	?>
 </body>
 </html>

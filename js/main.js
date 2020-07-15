@@ -40,7 +40,7 @@
   }
 
   // Smooth scroll for the navigation and links with .scrollto classes
-  $('.main-nav a, .mobile-nav a, .scrollto, #link_resv, #to_contact, #to_resvation, #to_acc').on('click', function() {
+  $('.main-nav a, .mobile-nav a, .scrollto, #link_resv, #to_contact, #to_resvation, #to_acc, #to-team-1, #to-team-2').on('click', function() {
     if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
       var target = $(this.hash);
       if (target.length) {
