@@ -2,11 +2,14 @@
 
 ## Table des matières
 
-- [Membre du projet] (##Membre du projets)
+- [Membres du projet](#membres-du-projets).
+- [Description du projet](#description-du-projet).
+- [Règles d'usage](#règles-dusage).
 
-## Membre du projets
+## Membres du projets
 
 > escarrie
+
 > nsahloum
 
 ## Description du projet
