@@ -32,8 +32,8 @@ Tous ces sites sont la propriété intellectuel des membres de notre équipe, vo
 
 ## Choses restantes
 
-[x] Mail
-[ ] Newsletter
-[ ] reservation
+- [x] Mail
+- [ ] Newsletter
+- [ ] reservation
 
 **© 2020 - SkillsOwnerWebSite**
