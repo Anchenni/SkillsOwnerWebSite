@@ -307,7 +307,7 @@
             <p class="cta-text"> Vous n'avez aucun projet à nous soumettre ? Vous avez quand même envie de nous aider ? Rien de plus simple vous pouvez nous encourager en faisant un don ou regardant une pub en cliquant sur "Donation"</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" id="link_resv" target="_blank" href="https://www.utip.io/myprofile?product_tour_id=93497">Donation</a>
+            <a class="cta-btn align-middle" id="link_resv" target="_blank" href="https://www.utip.io/codeshare">Donation</a>
           </div>
         </div>
 
