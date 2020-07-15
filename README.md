@@ -5,6 +5,7 @@
 - [Membres du projet](#membres-du-projets).
 - [Description du projet](#description-du-projet).
 - [Règles d'usage](#règles-dusage).
+- [Choses restante](#choses-restantes).
 
 ## Membres du projets
 
@@ -28,5 +29,11 @@ Ce site contient:
 ## Règles d'usage
 
 Tous ces sites sont la propriété intellectuel des membres de notre équipe, vous pouvez donc vous inspirez de ce projet mais en aucun cas le copier coller
+
+## Choses restantes
+
+[x] Mail
+[ ] Newsletter
+[ ] reservation
 
 **© 2020 - SkillsOwnerWebSite**
