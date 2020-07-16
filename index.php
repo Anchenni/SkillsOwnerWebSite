@@ -56,8 +56,8 @@
 
       <div class="logo float-left">
         <!-- Uncomment below if you prefer to use an image logo -->
-        <h1 class="text-light"><a href="#intro" class="scrollto"><span>Code & Share</span></a></h1>
-        <!-- <a href="#header" class="scrollto"><img src="img/logo.png" alt="" class="img-fluid"></a> -->
+        <!--<h1 class="text-light"><a href="#intro" class="scrollto"><span>Code & Share</span></a></h1>-->
+         <a href="#header" class="scrollto"><img src="img/logo.png" alt="code and share" class="img-fluid"></a>
       </div>
 
       <nav class="main-nav float-right d-none d-lg-block">
@@ -235,17 +235,17 @@
             <div class="why-us-content">
               <p>Vu que nous sommes encore étudiants il y a déjà un net avantage au niveau de nos prix</p>
               <p>
-                De plus, vu que nous faisons cela pour aquérir de l'expérience et établir un portfolio de projets que nous établissons pour notre futur,
-                vous êtes certain que nous assurerons un suivi constant et ceci pour vous aider dans la pérennisation de votre projet.
+                Nous faisons cela pour aquérir de l'expérience et établir un portfolio de projets que nous établissons pour notre futur.
+                Vous pouvez donc être certain que nous assurerons un suivi constant et ceci pour vous aider dans la pérennisation de votre projet.
                 <br>
                 <br>
-                Donc petit récap des avantages pour vous!
+                Petit récap des avantages pour vous:
               </p>
 
               <div class="features wow bounceInUp clearfix">
                 <i class="fa fa-diamond" style="color: #f058dc;"></i>
                 <h4>Prix réduit</h4>
-                <p>Vu que nous somme étudiants et donc pas encore professionnels, le prix ne doit dépasser le prix d'un professionnel tout en vous assurant la meilleure qualité possible.</p>
+                <p>Vu que nous somme étudiants, le prix ne doit dépasser le prix d'un professionnel tout en vous assurant la meilleure qualité possible.</p>
               </div>
 
               <div class="features wow bounceInUp clearfix">
@@ -304,7 +304,7 @@
         <div class="row">
           <div class="col-lg-9 text-center text-lg-left">
             <h3 class="cta-title">Encouragez-nous!</h3>
-            <p class="cta-text"> Vous n'avez aucun projet à nous soumettre ? Vous avez quand même envie de nous aider ? Rien de plus simple vous pouvez nous encourager en faisant un don ou regardant une pub en cliquant sur "Donation"</p>
+            <p class="cta-text"> Vous n'avez aucun projet à nous soumettre ? Vous avez quand même envie de nous aider ? Rien de plus simple vous pouvez nous encourager en faisant un don ou en regardant une pub en cliquant sur "Donation"</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
             <a class="cta-btn align-middle" id="link_resv" target="_blank" href="https://www.utip.io/codeshare">Donation</a>
@@ -327,11 +327,11 @@
           <div class="col-lg-6 wow fadeInUp pt-5 pt-lg-0">
             <h4>Travailler avec nous c'est aussi plein d'autres choses</h4>
             <p>
-              Tous d'abord travailler avec nous c'est une façon de nous faire passer nous développeur junior à possiblement développeur senior en quelque temps. <br>
-              Mais aussi vous assurer que votre projet sera fini quoi qu'il nous en coûte car oui notre devise principale à notre formation c'est de finir nos projets en cours.
+              Tous d'abord travailler avec nous c'est une façon de nous aider à évoluer en tant que développeur. <br>
+              Mais aussi vous assurer que votre projet sera fini quoi qu'il nous en coûte et dans les plus brefs délais possibles car notre but est d'apprendre à travers vos projets.
             </p>
             <p>
-              De plus si vous travailler avec nous, lors d'un projet différent vous aurez une réduction de <i>30% sur nos prix de base</i><sup>*</sup>.<br>
+              Si vous travaillez avec nous pour la seconde fois, nous vous offrons <i>30% de réduction sur nos prix de base</i><sup>*</sup>.<br>
             </p>
           </div>
         </div>
@@ -344,13 +344,13 @@
           <div class="col-lg-6 wow fadeInUp pt-4 pt-lg-0 order-2 order-lg-1">
             <h4>Un support disponible de 8h30 à 19h</h4>
             <p>
-              Et oui qui dit développement dit forcément bugs et ces bugs personnes même pas nous ne les aimes et c'est pour cela que nous essayons de vous les résoudres et ce grace à un horaire de support entre chaque membres de notre équipe.
+              Nous alternons entre tous les membres de notre équipe afin de vous garantir un support sur toute la journée.
             </p>
             <p>
-              Le services support ne répond pas à votre demande? Pas de problème envoyer nous un mail et nous vous contacterons dans les plus brefs délais et si vous avez peur qu'on ne le voit pas alors contacter un membres de l'équipe directement.
+              Le services support ne répond pas à votre demande? Pas de problème envoyez-nous un e-mail et nous vous contacterons dans les plus brefs délais. Vous pourrez même contacter directement un des membres de l'équipe.
             </p>
             <p>
-              Nous essayerons tant bien que mal de resté professionnel pour satisfaire votre éxpérience avec nous.
+              Nous resterons professionnel et ce peu importe la situation.
             </p>
           </div>
           
@@ -581,7 +581,7 @@
       <div class="container">
         <div class="section-header">
           <h3>Notre équipe</h3>
-          <p>Dans notre équipe tous le monde est au même niveau et chacun donne le meilleur de sois pour faire de l'expérience de nos clients la meilleure qui soit!</p>
+          <p>Dans notre équipe tout le monde est au même niveau et chacun donne le meilleur de soi pour rendre les clients heureux!</p>
         </div>
 
         <div class="row">
@@ -611,8 +611,8 @@
               <img src="img/naj.jpg" class="img-fluid" alt="" width="553" heigth="553">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Najima</h4>
-                  <span>Etudiante en informatique depuis 2020</span>
+                  <h4>Najima Sahloumi</h4>
+                  <span>Intéressée par le développement web</span>
                   <div class="social">
                     <!--<a href=""><i class="fa fa-twitter"></i></a>
                     <a href=""><i class="fa fa-facebook"></i></a>
@@ -787,8 +787,8 @@
             <a data-toggle="collapse" class="collapsed" href="#faq1">Comment puis-je réserver un futur projet? <i class="ion-android-remove"></i></a>
             <div id="faq1" class="collapse" data-parent="#faq-list">
               <p>
-                Ci-dessus nous avons mit les différent prix de réservation avec les different bonus de celle-ci. <br>
-                Vous n'aurez qu'à choisir la quel vous voulez et de cliquer sur <a href="#pricing" id="to_resvation" style="font-size: inherit; text-decoration: none;">Reserver</a> Vous serez diriger vers le formulaire de contact prés remplit pour vous et nous vous contacterons pour procédé à l'enregistrement de celle-ci.
+                Ci-dessus nous avons mis les différents prix de réservation avec les differents bonus. <br>
+                Vous n'aurez qu'à choisir celle que vous voulez et cliquer sur <a href="#pricing" id="to_resvation" style="font-size: inherit; text-decoration: none;">Reserver</a> Vous serez redirigé vers le formulaire de contact préremplit et nous vous contacterons pour procéder à l'enregistrement de celle-ci.
               </p>
             </div>
           </li>
@@ -867,7 +867,7 @@
 
                   <div class="footer-newsletter">
                     <h4>Notre newsletter</h4>
-                    <p>En vous inscrivant à notre newsletter vous serez tenu informés de nos dernière mises à jour et des différentes offres que nous proposerons par la suite</p>
+                    <p>En vous inscrivant à notre newsletter vous serez tenu informés de nos dernières mises à jour et des différentes offres que nous proposerons par la suite</p>
                     <form action="" method="post">
                       <input type="email" name="email"><input type="submit"  value="S'inscrire">
                     </form>
@@ -934,7 +934,7 @@
             <div class="form">
               
               <h4>Nous envoyer un message</h4>
-              <p>En nous envoyant un un message par le site votre demande sera traité dans des délais plus flexible, nous nous en excusons</p>
+              <p>En nous envoyant un message via notre site votre demande sera traitée dans des délais un peu plus long, nous nous en excusons. Nous sommes accessibles par téléphone entre 8h et 19h.</p>
               <form action="php/formContact.php" method="post" role="form" class="contactForm" onsubmit="return validateForm()">
                 <div class="form-group">
                   <input type="text" name="name" class="form-control" id="name" placeholder="Votre Nom" data-rule="minlen:4" data-msg="Votre nom doit faire au moin 4 caracteres" />
