@@ -608,16 +608,16 @@
 
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div class="member">
-              <img src="img/team-2.jpg" class="img-fluid" alt="">
+              <img src="img/naj.jpg" class="img-fluid" alt="" width="553" heigth="553">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Najima</h4>
-                  <span>Etudiant en informatique depuis 2020</span>
+                  <span>Etudiante en informatique depuis 2020</span>
                   <div class="social">
                     <!--<a href=""><i class="fa fa-twitter"></i></a>
                     <a href=""><i class="fa fa-facebook"></i></a>
                     <a href=""><i class="fa fa-google-plus"></i></a>-->
-                    <a href=""><i class="fa fa-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/nsahloum/" target="_blank"><i class="fa fa-linkedin"></i></a>
                   </div>
                 </div>
               </div>
